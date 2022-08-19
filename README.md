@@ -9,4 +9,4 @@ Tools Used: Visual Studio Code
 Responsibility: To develop this project 
 Description: It detect any language inputted by user and then 
 they can translate detected language into any 
-languag
+language
